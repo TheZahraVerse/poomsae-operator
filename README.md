@@ -17,6 +17,7 @@ Built with **Tauri + Vue 3 + Pinia + Tailwind CSS**.
 - Pinia
 - Vue Router
 - Tailwind CSS
+- daisyUI
 - Inertia (planned)
 
 ## Getting Started

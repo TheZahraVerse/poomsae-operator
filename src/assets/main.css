@@ -1,1 +1,5 @@
 @import "tailwindcss";
+@plugin "daisyui";
+@import "./themes/tokens.css";
+@import "./themes/operator.css";
+@import "./themes/rtds.css";
