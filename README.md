@@ -1,7 +1,26 @@
-# Tauri + Vue 3
+# Poomsae Operator Panel
 
-This template should help get you started developing with Tauri + Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Desktop application for managing Poomsae competitions (Operator Panel + RTDS Display).
 
-## Recommended IDE Setup
+Built with **Tauri + Vue 3 + Pinia + Tailwind CSS**.
 
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+## Features (WIP)
+
+- Operator Panel (per court)
+- Real-time Display System (RTDS)
+- WebSocket support (coming soon)
+
+## Tech Stack
+
+- Tauri 2
+- Vue 3
+- Pinia
+- Vue Router
+- Tailwind CSS
+- Inertia (planned)
+
+## Getting Started
+
+```bash
+npm install
+npm run tauri dev
