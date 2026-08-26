@@ -1,5 +1,7 @@
 @import "tailwindcss";
-@plugin "daisyui";
-@import "./themes/tokens.css";
+@plugin "daisyui"{
+    themes: lofi --default;
+}
 @import "./themes/operator.css";
 @import "./themes/rtds.css";
+@import "./themes/fonts.css";
